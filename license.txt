@@ -1,0 +1,112 @@
+LICENSE AGREEMENT
+
+You should carefully read the following terms and conditions before using this software. Your use of this software indicates your acceptance of this License Agreement and warranty.
+
+Activ E-Book Compiler is Copyright (C) 2000-2014 Answers 2000 Limited.
+
+
+DEFINITIONS
+
+The following definitions shall apply in this document:
+
+"ANSWERS 2000": Answers 2000 Limited - The company that is the developer and copyright holder of this software.
+
+"Activ E-Book Compiler": this software package, used for creating E-Books, property of ANSWERS 2000.
+
+"E-Book": E-Books created using Activ E-Book Compiler. Each E-Book is a self-contained Windows program (.EXE). For the purposes of this agreement, "Rebrander Programs", which can optionally be created with Activ E-Book Compiler shall also be considered E-Books.
+
+"USER": You - any person using Activ E-Book Compiler to create E-Books.
+
+"REGISTERED USER": A USER who has paid the registration fee to ANSWERS 2000, for use of Activ E-Book Compiler on a particular computer.  In the event that a REGISTERED USER is refunded or the registration fee is charged back, said USER shall revert to being an UNREGISTERED USER.
+
+"UNREGISTERED USER": A USER who has not paid the registration fee to ANSWERS 2000.
+
+"READER": a person using E-Books created by USERs.
+
+
+
+DISTRIBUTION
+
+1. Activ E-Book Compiler may be freely distributed in its original, unmodified and complete form.
+
+2. Activ E-Book Compiler may be uploaded to web sites, public FTP sites, public Bulletin Board Systems or any network site for the express purpose of providing access to download Activ E-Book Compiler. Activ E-Book Compiler may not be uploaded or transmitted to Internet newsgroups (Usenet).
+
+3. Activ E-Book Compiler may be distributed on CD-ROM disks, diskettes or any other media including magazine cover disks, provided no more than reasonable copying/media charges are made for such distribution.
+
+4. Activ E-Book Compiler Registration Keys may only be distributed by ANSWERS 2000. No person or entity other than ANSWERS 2000 may charge for (or request donations for) Activ E-Book Compiler or Registration Keys.
+
+5. No component part of Activ E-Book Compiler may be distributed individually, disassembled, copied, reverse engineered, or altered in any form.
+
+6. E-Books created using Activ E-Book Compiler consist of both software and content portions. The software portion remains copyright of ANSWERS 2000. The content portions remain copyright of the author or copyright holder of the work. ANSWERS 2000 grants a license to the USER to distribute any such E-Books created with Activ E-Book Compiler:
+(i) UNREGISTERED USERs may only distribute such E-Books free of charge. Free of charge means that absolutely no charge may be made for the distribution of such E-Books whether it be for the E-Book itself, access to part of the E-Book (for example a part protected by password), copying/media charges, or distributing free E-Books in conjunction with a product or service that is for sale.
+(ii) REGISTERED USERs may charge their READERs for access to all or part of E-Books they create, may charge their READERs copying/media charges for E-Books they create, and may include E-Books they create as part of a part of a product or service they sell.
+(iii) USER agrees to indemnify and hold ANSWERS 2000 harmless for any damages or costs incurred as a result of your violation of any law, or as a direct or indirect consequence of E-Books created or distributed by the USER.
+
+7. UNREGISTERED USERS agree not create E-Books about or linking to topics relating to, (even for educational purposes): nudity, sexual themes, graphic violence, SPAM/bulk e-mail, pyramid schemes, illegal activities, instructions on performing illegal activities, alcohol, tobacco or other kinds of substance abuse, foul language, gambling, material that violates copyrights, warez, hacker/phreaker material, MP3 files (whether legal or not), material that attempts to defraud internet advertisers, material that encourages hatred or discrimination based on race, religion, sex, or sexual-orientation.
+
+
+"DIRECT" USE ONLY
+
+1.The license is granted to USER only. The USER may not install the software in any form of environment which allows other parties access to the software, for example via remote- or web-based access, whether for free or in return for any form of consideration.  This includes, but is not limited to, providing remote access over a network, over the Internet, or a web-site.
+
+
+REGISTRATION
+
+1. USERs who wish to charge their READERs as described above, are required to register. Certain features of Activ E-Book Compiler are only available to registered users.
+
+2. USERs who wish to register are required to pay a registration fee to ANSWERS 2000, and upon payment of the fee become REGISTERED USERs. The exact amount of the fee may vary from time to time. In the event of payment being refused, cancelled, fraudulent or charged-back, the registration shall not be considered valid and the user shall remain an UNREGISTERED USER.
+
+3. REGISTERED USERs will be given a Registration Key at the time of, or soon after, registration, which is specific to their computer and unlocks certain features of the Activ E-Book Compiler. Such Registration Keys are for use on a single computer system by a single person - and may not be sold, transferred, or otherwise disclosed to third parties.
+
+4. Registration Keys are normally only designed to be entered once into the Activ E-Book Compiler on each computer, however in the event of a user reformatting their disk or suffering severe system corruption, a new Registration Key may be required. In this event, ANSWERS 2000 will supply 1 replacement Registration Key for up to 90 days after the date of purchase, provided the user supplies proof of the amount and date of payment (example: ClickBank receipt number accompanied by date of purchase).
+
+5. ANSWERS 2000 is not obligated to accept the registration fees from any person or entity. ANSWERS 2000 will determine at its sole discretion from whom and under what circumstances it will accept registration fees. ANSWERS 2000 may publish on its web site, conditions on the acceptance of registration fees, including, but not limited to, methods of payment accepted, and geographical locations of customers.  Additionally ANSWERS 2000 may at any time notify an UNREGISTERED USER in writing or via e-mail that they do not wish that person or entity's custom.
+
+
+NO LIABILITY, NO WARRANTIES
+
+1. In no event will ANSWERS 2000 be liable to any party for any direct, indirect, punitive, special, incidental or other consequential damages arising directly or indirectly from any use of Activ E-Book Compiler, or E-Books created using the Activ E-Book Compiler, even if ANSWERS 2000 is expressly advised of the possibility of such damages.
+
+2. Activ E-Book Compiler and the accompanying files are provided "as is" and without warranties as to performance of, merchantability or any other warranties whether expressed or implied. The USER assumes the entire risk of using Activ E-Book Compiler, and distributing any E-Books created using Activ E-Book Compiler.
+
+3. In all cases, READERs are the USER's customers, and are not customers of ANSWERS 2000.
+
+4. Even if these limitations are found not to apply, the maximum liability of ANSWERS 2000 will be limited to replacement of the Activ E-Book Compiler product or refund of the registration fee paid to ANSWERS 2000 for Activ E-Book Compiler by the REGISTERED USER, according to ANSWERS 2000's preference.
+
+
+PRODUCT SUPPORT
+
+1. No formal product support is provided, but USERs are encouraged to send questions, comments or suggestions to ANSWERS 2000 by e-mail or by writing.
+
+
+COMMENT
+
+1. Any comments or materials sent to ANSWERS 2000 regarding the ANSWERS 2000's web sites, Activ E-Book Compiler or any of the ANSWERS 2000's products or services may be used by ANSWERS 2000 without liability, and without compensation or attribution to the sender. ANSWERS 2000 may reproduce, use, disclose, exhibit, display, transform, create derivative works and distribute such content or materials to others without limitation.
+
+
+LINKS TO OTHER WEB SITES
+
+1. Information on ANSWERS 2000's web sites, Activ E-Book Compiler, or in E-Books created using Activ E-Book Compiler may contain links or references to other sites. Other sites may contain links or references to ANSWERS 2000's web sites, products or services. ANSWERS 2000 does not endorse, and is not responsible for, any product or service offered by any entity other than itself.
+
+
+UNSOLICITED E-MAIL AND MESSAGING
+
+1. USER agrees not to use any form of unsolicited e-mail or unsolicited messaging, to promote E-Books created using Activ E-Book Compiler or web/FTP sites containing/linking to such E-Books.
+
+2. USER agrees not to make any reference to Activ E-Book Compiler, ANSWERS 2000, or any of ANSWERS 2000's products or services, in any form of unsolicited e-mail or unsolicited messaging.
+
+
+INTERNET NEWSGROUPS (USENET)
+
+1. USER agrees not to use inappropriate, or off-topic, postings to Internet newsgroups (Usenet) to promote E-Books created using Activ E-Book Compiler or web/FTP sites containing/linking to such E-Books.
+
+2. USER agrees not to make inappropriate, or off-topic, postings to Internet newsgroups (Usenet) make any reference to Activ E-Book Compiler, ANSWERS 2000, or any of ANSWERS 2000's product or services in any form of unsolicited e-mail or unsolicited messaging.
+
+3. A Usenet news article shall be considered inappropriate if does not fully comply with the written charter/FAQ of the newsgroup to which it is posted. The USER is responsible for determining the rules of a newsgroup before posting to it.
+
+4. Established Usenet conventions ("Netiquette") prohibit advertising in most Usenet newsgroups. USER may post advertisements only in those newsgroups that specifically permit them in the charter or FAQ. Some newsgroups may permit "classified ads" for single transactions between private individuals, but not commercial advertisements. USER is responsible for determining whether or not a newsgroup permits advertisements before posting.
+
+
+GOVERNING LAW
+
+1. This agreement shall be interpreted in accordance with the laws of England. The USER consents to the exclusive jurisdiction of the English courts. The USER agrees that any legal action against ANSWERS 2000, relating to this agreement and/or Activ E-Book Compiler will be brought in the courts of London, England.
